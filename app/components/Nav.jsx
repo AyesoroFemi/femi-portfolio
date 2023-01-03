@@ -6,8 +6,8 @@ import { Link } from "@remix-run/react";
 function Nav() {
   return (
     <div className="bg-[#1C1C1C]">
-      <nav className="flex items-center justify-between text-white pt-4 max-w-[1440px] mx-auto px-8">
-        <div className="flex basis-1/3 justify-between">
+      <nav className="flex items-center justify-between text-white pt-4 max-w-[1440px] mx-auto px-12">
+        <div className="flex basis-1/2 gap-10">
           <div className="">
             <img
               className="rounded-full w-[50px] h-[50px]"

@@ -1,4 +1,3 @@
-import React from "react";
 import Work from "./Work";
 
 function Experience() {
