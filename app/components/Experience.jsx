@@ -2,8 +2,8 @@ import Work from "./Work";
 
 function Experience() {
   return (
-    <div className="bg-gradient-to-r from-slate-900 to-[#48464C]">
-      <div className="py-32 px-12 text-white max-w-[1440px] mx-auto">
+    <div className="text-black">
+      <div className="py-16 md:py-32 px-4 md:px-12 text-black max-w-[1440px] mx-auto">
         <h1 className="text-center text-4xl	font-semibold">My Experience</h1>
         <div className="flex justify-center">
           <a
